@@ -1,5 +1,7 @@
 url: https://ijada.it
+enforce_ssl:ijada.it
 baseurl: ""
+google_analytics:
 
 # Site settings
 title: iJada IT
