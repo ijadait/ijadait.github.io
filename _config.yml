@@ -5,7 +5,7 @@ google_analytics:
 # Site settings
 title: iJada IT
 email: mhmd@ijada.it
-description: "An awesome IT Team As A Service"
+description: "An awesome IT Team As A Service Startup"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,7 +16,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Mohammed Almusaddar
-  pic: 1
+  pic: 6
   position: Cloud Engineer
   social:
     - title: twitter
@@ -25,13 +25,13 @@ people:
       url: #
 
 - name: Issam Fayad
-  pic: 2
+  pic: 5
   position: WISP Engineer
   social:
     - title: twitter
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/issamfayad
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
